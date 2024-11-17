@@ -1,3 +1,4 @@
+![logo](https://github.com/15VuNguyen/15VuNguyen/blob/main/Me_Banner_Profile_Github.png)
 <h1 align="center">Hi 👋, I'm Nguyen Vu Nguyen</h1>
 <h3 align="center">A passionate Software Engineer from Viet Nam</h3>
 
